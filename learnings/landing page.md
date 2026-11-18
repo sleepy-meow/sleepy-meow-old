@@ -22,8 +22,6 @@ Pick one from the sidebar to start reading!
 
 > [!WARNING] this page is still wip
 
-> [!DANGER] contains some ai generated paragraphs (temporarily for editing purposes) or stuff copypasted from elsewhere that still need to be turned into something more original
-
 > [!SUCCESS] this page is fine for the time being
 
 

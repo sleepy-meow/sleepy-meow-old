@@ -45,7 +45,7 @@ An environment that welcomes ideas also needs to help people improve them.
 
 Creating those conditions is part of the work: making knowledge accessible, inviting questions, and giving people time and support to explore useful possibilities. Encouragement alone does not make room in someone’s workload.
 
-All the ingredients for a useful idea may already be there, just distributed between different people. We cannot guarantee that the next conversation will lead to a breakthrough, but we can make it easier for those pieces to meet. Exploring one small problem together is a place to start.
+All the ingredients for a useful idea may already be there, just distributed between different people. We cannot guarantee that the next conversation will lead to a breakthrough, but we can make it easier for those pieces to meet.             s
 
 > [!EXAMPLE] **[Reversing assumptions](https://thinkjarcollective.com/tools/reversing-assumptions-technique)**
 

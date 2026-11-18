@@ -17,6 +17,7 @@
 # Other things to do
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
+> [!TIP] Daniel Coyle - the culture playbook (a long list of practical advice)
 # simple things anyone can do
 Acknowledging that you are a fallible human being gives others permission to do the same:
 
@@ -81,7 +82,7 @@ Small acts like these make openness easier for everyone else.
     When someone raises a concern, back them up: “I noticed that too.” A small show of support can break the impression that they are alone.
     
 2. **Don't leave the messenger alone afterwards.**  
-    Check in with them, support them publicly where you can, and reinforce that raising the issue was worthwhile (especially if they face negative consequences).
+    Check in with them, support them publicly where you can, and reinforce that raising the issue was worthwhile.
     
 3. **Practice openness with peers.**  
     Share unfinished thoughts, ask unpolished questions, and admit uncertainty. It lowers the pressure to perform certainty.

@@ -4,7 +4,7 @@ A teammate raises a concern, but then find themselves in a situtation like this:
 
 This doesn't just hurt the person affected directly, but everyone who witnesses it. And it's the kind of thing that draws attention. 
 
-it may just take one or two cases to teach the entire group the lesson that it's not safe to disagree with the boss. people start self-censoring, painting a pretty picture of what's really going on, making polished presentations which say how things are great, while below deck, the engine room is flooding.
+It's a fast track to teach the entire group the lesson that it's not safe to disagree with the boss. people start self-censoring, painting a pretty picture of what's really going on, presentations saying how things are great, while below deck, the engine room is flooding.
 
 > Many organizational leaders genuinely believe that "no news" means that things are going well. What many people do not realize is that motivation by fear is indeed highly effective - effective at creating the illusion that goals are being achieved. (amy edmondson, the fearless organization)
 

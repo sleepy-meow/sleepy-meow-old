@@ -4,10 +4,6 @@
 [[how to come up with big ideas]] !!
 
 
-# culture
-[[how to nurture a culture]] !! ?
-[[why to have a culture memo]] !! ?
-[[universal human needs]] !! ?
 # psychological safety
 [[feeling safe and trusted]] !!
 [[how to psychological safety]] !!
@@ -17,8 +13,8 @@
 # learning & thinking
 [[a learning mindset]] !!
 [[how to fail]] !!
-[[how to question your own thinking]] !! ?
-[[group flow]] !! ?
+[[how to question your own thinking]] !!
+[[group flow]] !!
 [[diversity of thought]] !!
 # ways of working
 [[making decisions]] !!
@@ -46,8 +42,6 @@
 [[responsibilities of a lead]] !!
 [[leadership approaches]] !!
 [[motivation]] !!
-%%[[courage is contagious]] !! ?%%
-%%[[confronting our freedom]] !!%%
 [[rigid teams vs teaming]] !!
 
 # other things
@@ -55,7 +49,7 @@
 [[cross team connectors]] !! ?
 [[free flow of information]] !!
 [[some pitfalls]] !!
+[[founding a company]] !!
 
 [[bad advice books]] !!
 [[links & resource]] !!
-%%[[first aid kit]] !! ?%%

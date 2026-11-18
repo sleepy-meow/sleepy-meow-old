@@ -3,7 +3,7 @@
 It's easy to jump the gun and go straight to the "solutions" part, and start adding a feature, and forget to ask the most important thing: are these the right features?
 
 
-This canvas is worded for ux consultants, but can easily be modified to fit some other use case: https://jeffgothelf.com/blog/leanuxcanvas-v2/
+This canvas is worded for ux consultants, works just as well for other use cases: https://jeffgothelf.com/blog/leanuxcanvas-v2/
 
 - Helps focus on “why”
 - Encourages learning

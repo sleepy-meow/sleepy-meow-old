@@ -55,7 +55,7 @@ related: [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - social phenomena [wiki]
 - [cognitive bias codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 
-Caveat: Not all biases have equally strong research behind them (research often comes from some kind of catastrophic failure), and as any aspect of psychology, it's not an exact science.
+Caveat: Not all biases have equally strong research behind them (research often comes from some kind of catastrophic failure).
 
 # cognitive biases & AI
 LLMs are also equally susceptible to biases as humans, and can act as a feedback loop.

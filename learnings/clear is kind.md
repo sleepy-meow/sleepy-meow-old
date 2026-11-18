@@ -13,6 +13,8 @@ The problem is not that a conversation begins vaguely. The problem is when a vag
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
 # What is feedback?
+*Here’s the moment, here’s what would have worked better* (or really: *"..i'm curious to hear your perspective on this"*). Without those, it's just a verdict.
+
 The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.
 
 Several other kinds of messages may appear in a feedback conversation, but they are not interchangeable:
@@ -42,11 +44,6 @@ Feedback aimed at improvement needs to give the recipient something they can und
 
 Other conversations have legitimate purposes of their own. Someone raising a concern, describing harm, or setting a boundary does not have to turn their experience into a development opportunity for the person they are addressing.
 
-%%
-
-*Here’s the moment, here’s what would have worked better* (or alternatively, "i don't have all the specifics but let's talk about it"). Without those, it's just a verdict.
-%%
-
 # What makes feedback bullshit?
 Bullshit is not necessarily a deliberate lie. In this context, it is language that sounds meaningful or authoritative without being anchored in enough truth, clarity, or substance to examine.
 
@@ -60,8 +57,7 @@ Feedback starts to become bullshit when it makes a consequential claim about som
 
 Statements such as _“you lack leadership qualities,” “you focus on the wrong things,” “you have poor communication skills,”_ or _“you need to be more positive”_ may point to a real concern. They can begin a conversation. They are not sufficient as its conclusion.
 
-When the person giving the feedback cannot (or will not) make the claim more concrete, the language performs the appearance of feedback without doing the work of feedback.
-
+When the person giving the feedback can't make the claim more concrete, the language performs the appearance of feedback without doing the work of feedback.
 
 
 %%
@@ -104,7 +100,7 @@ This identifies a particular misunderstanding without assuming what caused it. I
 
 By comparison:
 
-> “You have poor communication skills and need to get better at communicating.”
+> “Your communication skills are bad and need to get better at communicating.”
 
 This makes a broad judgment about someone’s ability without explaining what happened, what standard was not met, or what they should do differently.
 

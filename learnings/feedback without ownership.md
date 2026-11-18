@@ -21,7 +21,7 @@ The question is not only whether the source is named, but whether someone takes 
 
 *Feedback needs to support a conversation.* The person responsible for the assessment must be available to explain and discuss it.
 
-Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers. You'll almost involuntarily try to guess who it came from, which leads to generalized distrust.
+Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers (a nice rant about this can be found in the book "confronting our freedom"). You'll almost involuntarily try to guess who it came from, which leads to generalized distrust.
 %%
 # The cheap seats
 > The third thing I learned has turned into a mandate by which I live: If you are not in the arena getting your ass kicked on occasion, I'm not interested in or open to your feedback. There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly. Their only contributions are criticism, cynicism, and fearmongering.
@@ -32,19 +32,14 @@ Using unnamed others to avoid owning a judgment is problematic informally, and s
 Accountability means: *owning your mistakes, apologizing, and making amends*. 
 Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. 
 
-%%
-The decision-maker is accountable for how they assess and use the feedback. A manager who uses feedback to make a consequential decision must explain why they found it persuasive, consider the recipient's response, and be willing to revise their assessment.
-
-They do not automatically need to reveal the reporter's identity. They do need to provide enough specificity for the recipient to understand and respond. If protecting the source limits what can be shared or checked, that limitation should also constrain the conclusions drawn from it.
-%%
-
-
 ## anonymity and power
 *The case for anonymity depends partly on who needs protection from whom.*
 
-Someone reporting concerns about a person who controls their review, opportunities, or employment has a clear reason to fear consequences. When the reporter holds that power over the recipient, the same justification is much weaker. Discomfort with explaining or defending criticism is not the same as needing protection from retaliation.
+Anonymous upwards feedback can be useful as a signal that would otherwise never arrive at all. Someone reporting concerns about a person who controls their review, opportunities, or employment has a clear reason to fear consequences. When the reporter holds that power over the recipient, the same justification is much weaker. Discomfort with explaining or defending criticism is not the same as needing protection from retaliation.
 
 A manager may still need to protect a less powerful person whose concern they are relaying. But when the criticism comes from the manager themselves, or from more senior leadership, anonymity can shield the people exercising authority from having to answer for their judgments.
+
+> "good leaders should aspire to have their fingerprints all over hard decisions" (mike monteiro, ruined by design)
 
 The more power someone has to attach consequences to their criticism, the stronger the expectation that they own it, explain its basis, and remain available for questions.
 
@@ -52,12 +47,7 @@ The same problem applies to [[logging decisions#decisions without ownership|deci
 
 ## the direction of feedback matters
 
-The same sentence can have a very different weight depending on who says it. A manager saying:
-> “I think you need to communicate differently.”
-
-can affect the employee's career. An employee saying the same thing to their manager may put **the employee's own career or relationship with the manager** at risk.
-
-Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case.
+Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation can get in the way of communicating clearly.
 
 %%
 The responsibility for investigating a concern belongs to the people handling it. If they use it to make a consequential judgment, they must be able to explain that judgment. The recipient should not have to do their work for them.%%
@@ -75,7 +65,6 @@ Before passing feedback on, ask what the recipient can reasonably do with it. Se
 > The gossip taboo benefits the powerful.
 > 
 > Gossip can of course be used to destroy or disparage unhelpfully and recklessly. But what is labeled "gossiping" can also be a process of people pooling information that fragmented go nowhere and pooled together can change things. (Priya parker, The art of fighting)
-
 
 
 part 3/3: [[high stakes feedback]]

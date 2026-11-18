@@ -10,7 +10,7 @@ The more successful / large a company becomes, the more pressure there is for pr
 > [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
 
 # leaving structure implicit
-Simply calling an organization flat isn't enough. After a certain size (if nothing is done about it), hierarchies tend to emerge, and when left undefined, they will just be informal and hidden out of sight. 
+Simply calling an organization flat isn't enough. After a certain size (and other factors), hierarchies tend to emerge, and when left undefined, they will just be informal and hidden out of sight. 
 
 # inadequate structural guardrails
 The trick is to put them in place *before* they are actually needed. It may feel comfortable in the moment to avoid an awkward discussion, but it can be 100x more uncomfortable later down the road.
@@ -20,11 +20,10 @@ The trick is to put them in place *before* they are actually needed. It may feel
 > [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
 
 # plan continuation bias
-*also known as “Get-There-Itis”*
+*i.e. sunk cost fallacy*
 The unconscious cognitive bias to continue with the original plan despite of changing conditions.
 
 > [!EXAMPLE] https://psychsafety.com/plan-continuation-bias/
-
 
 # throwing people at the problem
 > The typical response to slow progress is to add more and more people to the teams.

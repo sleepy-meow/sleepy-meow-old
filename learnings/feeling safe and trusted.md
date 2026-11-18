@@ -67,9 +67,9 @@ The danger here is to mix up the comfort zone and anxiety zone, interpreting the
 
 Telling someone who is afraid to simply try harder to focus, is like trying to smooth rough waters with a flat iron. It will only make it worse.
 
-# Acclimatizing to the danger
+# Acclimatizing
 
-Just like a house with a gas leak, it's easy to get used to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe, but it can be hard to recognize from the inside. 
+Just like a house with a gas leak, it's easy to get used to low psychological safety and stop registering it. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe, but it can be hard to recognize from within a situation. 
 %%
 # Leaders want to feel safe too
 

@@ -20,9 +20,6 @@ New information can still emerge. The problem is treating it as a settled judgme
 
 “People say you need to communicate better” doesn't meet that standard. It leaves the recipient guessing about both the evidence and the remedy.
 
-
-
-
 ## you can't always drop things on the floor
 
 > Don't grab hurtful comments and pull them close to you by rereading them and ruminating on them. Don't play with them by rehearsing your badass comeback. And whatever you do, don't pull hatefulness close to your heart.

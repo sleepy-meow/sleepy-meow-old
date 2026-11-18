@@ -1,6 +1,6 @@
 There are many ways to understand leadership, and what a lead is responsible for depends partly on the context and the goal. This is the picture I’ve pieced together so far on what seems to matter most for creating the conditions that help people think, create, and solve problems together.
 
-*Note: all of these responsibilities can also be shared.* 
+*Note: all of these responsibilities can also be shared.* [Self-management](https://reinventingorganizationswiki.com/en/theory/self-management/) doesn't mean no managment, but that the responsibility is distributed across the team. 
 ## Fundamental requirements
 
 **Empathy**
@@ -14,6 +14,7 @@ Strong leaders stay curious, especially when situations are uncertain or uncomfo
 > Curiosity is an irreducible component of courageous leadership.
 
 ## Responsibilities
+(this is also not a complete list by any means)
 
 **Psychological safety**
 Leaders are responsible for creating an environment where people feel safe to speak, contribute, learn, disagree, and make mistakes without fear.
@@ -70,6 +71,8 @@ Leaders give people a clear sense of where they are going and why. With directio
 **Producing more leaders**
 The strongest leaders do not make themselves indispensable. They develop the confidence, judgment, and leadership capacity of the people around them.
 > The goal of leadership is to produce more leaders, not followers.
+
+.. for one simple reason: the alternative simply doesn't scale very well (more about this here: [[free flow of information]])
 
 ---
 

@@ -39,7 +39,7 @@
 [[conflict avoidance]] !!
 
 # leadership
-[[responsibilities of a lead]] !!
+[[leadership responsibilities]] !!
 [[leadership approaches]] !!
 [[motivation]] !!
 [[rigid teams vs teaming]] !!

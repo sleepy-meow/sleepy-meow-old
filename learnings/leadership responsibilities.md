@@ -1,6 +1,6 @@
 There are many ways to understand leadership, and what a lead is responsible for depends partly on the context and the goal. This is the picture I’ve pieced together so far on what seems to matter most for creating the conditions that help people think, create, and solve problems together.
 
-*Note: all of these responsibilities can also be shared.* [Self-management](https://reinventingorganizationswiki.com/en/theory/self-management/) doesn't mean no managment, but that the responsibility is distributed across the team. 
+*Note: all of these responsibilities can also be shared.* [Self-management](https://reinventingorganizationswiki.com/en/theory/self-management/) doesn't mean these things can just be dropped on the floor, but that the responsibility is distributed across the team. 
 ## Fundamental requirements
 
 **Empathy**

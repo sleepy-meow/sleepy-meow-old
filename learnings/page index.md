@@ -3,6 +3,9 @@
 [[introduction]] !!
 [[how to come up with big ideas]] !!
 
+# culture
+[[how to nurture a culture]] !! ?
+[[why to write down your principles]] !! ?
 
 # psychological safety
 [[feeling safe and trusted]] !!

@@ -29,15 +29,8 @@
           "done": true
         },
         {
-          "name": "why to have a culture memo",
-          "path": "wip/why to have a culture memo.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "universal human needs",
-          "path": "wip/universal human needs.md",
+          "name": "why to write down your principles",
+          "path": "wip/why to write down your principles.md",
           "tags": [],
           "draft": true,
           "done": true
@@ -92,14 +85,12 @@
           "name": "how to question your own thinking",
           "path": "learnings/how to question your own thinking.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
           "name": "group flow",
           "path": "learnings/group flow.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
@@ -215,8 +206,8 @@
       "name": "leadership",
       "files": [
         {
-          "name": "responsibilities of a lead",
-          "path": "learnings/responsibilities of a lead.md",
+          "name": "leadership responsibilities",
+          "path": "learnings/leadership responsibilities.md",
           "tags": [],
           "done": true
         },
@@ -265,6 +256,12 @@
         {
           "name": "some pitfalls",
           "path": "learnings/some pitfalls.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "founding a company",
+          "path": "learnings/founding a company.md",
           "tags": [],
           "done": true
         },

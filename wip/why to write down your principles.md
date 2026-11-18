@@ -10,9 +10,9 @@ Companies often compress countless unspoken principles into a few polished state
 
 Phrases about openness, fairness, trust, and innovation may sound admirable, but almost any modern company could claim them. Catch-all language obscures what makes a company distinctive and offers little practical guidance.
 
+%%
 > "At some point, we felt we had too many values and that no one could remember them. So we tried to simplify them to short memorable catchphrases in a slide deck that we tried to make as short as possible. But that led to problems: people interpreted these phrases in different ways and it was not clear what we meant by them."
-
-
+%%
 
 # example of a principle
 **Principle: We believe in transparency**
@@ -31,11 +31,13 @@ _Why it’s unactionable:_ It doesn’t specify what should be shared, when peop
 Before changing a team workflow, share the problem and proposed approach with the people who use it. If a decision must be made urgently, make it—but explain the reasoning afterward. If information is confidential, say what cannot be shared and why rather than pretending the process is fully open.
 
 # integrity
-Only establish principles you genuinely intend to follow. Integrity matters: principles aren’t meant to please everyone, but to create clarity and alignment. Some healthy controversy is valuable—if they don’t spark discussion, they may not be pointed enough.
+> Only establish principles you genuinely intend to follow. Integrity matters: principles aren’t meant to please everyone, but to create clarity and alignment. Some healthy controversy is valuable—if they don’t spark discussion, they may not be pointed enough.
 
+%%
 > If we as leaders of our own company can not follow our own principles, then we will destroy the trust of the teams and it would destroy our culture.
+%%
 
-
+%%
 # examples for inspiration
 > [!EXAMPLE] [netflix culture memo](https://jobs.netflix.com/culture)
 

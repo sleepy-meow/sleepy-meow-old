@@ -1,11 +1,10 @@
 > If character describes how an individual thinks and acts, then the culture of an organization describes the character of a group of people and how they think and act as a collective. (simon sinek, leaders eat last)
 
 
-The practical moves are nearly always changes to *how the work is done* — how decisions get made, what happens after a failure, what's visible to whom — with the culture arriving behind them as a result.
+The practical moves are nearly always changes to *how the work is done*, how decisions get made, what happens after a failure, what's visible to whom, with the culture arriving behind them as a result.
 
 > A learning culture emerges as a by-product of practice with a new way of working — not the other way around. Many change efforts fail because they focus on shifting the culture. (amy edmondson, teaming)
 
-(todo: maybe add a separate page of what a good culture can look like)
 # practical tools
 > [!TIP] daniel coyle - the culture playbook (lots of small everyday practical things)
 
@@ -15,7 +14,6 @@ The practical moves are nearly always changes to *how the work is done* — how 
 
 > [!EXAMPLE] [corporate rebels - the 8 trends](https://www.corporate-rebels.com/bucketlist/the-8-trends) (8 shifts from traditional to progressive ways of working, distilled from visiting the workplaces doing it)
 
-(todo: find some other good lists from bookmarks)
 
 # why to not take it for granted
 > A culture isn’t something that we should just assume will always be there. It doesn’t happen just automatically. A strong culture is durable, yes, but it is not immune to corruption and collapse. It requires care and maintenance – from all of us.
@@ -23,18 +21,13 @@ The practical moves are nearly always changes to *how the work is done* — how 
 Although the responsiblity is proportional to the fanciness of the job title, you don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work. And so anytime you play a role in doing that, you are exercising leadership. (amy edmondson, the fearless organization)
 
 > "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
-# for inspiration
-> [!TIP] daniel coyle - the culture code
+
 
 %%
 # caveat
 > "The only make-or-break factors are the worldview held by the top leadership and by the owners/board."
 
 
-
-
-
-The fastest way to read a culture isn't to look at the values on the wall. It's to ask what happens to the person who brings bad news, admits a mistake, or disagrees with the most senior person in the room. Whatever happens to them is the culture — and everyone else is watching. They only have to see it once ([[why not to shoot the messenger]])."
 
 A value only becomes culture once it has been *operationalized* — turned into behaviors that are teachable and observable. 
 
@@ -50,7 +43,4 @@ A value only becomes culture once it has been *operationalized* — turned into 
 
 %%
 > Each culture at each company is different, and what the most successful companies get right is they build a culture that is right for them, not for someone else. The right culture for one company to be successful, might be disastrous for another.
-%%
-%%
-> Refusal to stand up for what you believe in weakens individual morality and ethics, as well as those of the culture
 %%

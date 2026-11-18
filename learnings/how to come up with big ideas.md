@@ -17,6 +17,8 @@ An unexpected connection might begin with hearing someone describe a frustration
 
 This is why free flow of information matters. Sharing only what someone needs to complete an assigned task can hide the context that would let them suggest a better approach. People need enough context of the broader work to know where they could help. 
 
+> We know true collaboration happened when the idea can no longer be traced to one person.
+
 ## ideas need room to be unfinished
 “This might be a stupid question, but…” can either be followed by something useful, or be the point where someone decides to stay quiet.
 

@@ -11,7 +11,7 @@
 [[feeling safe and trusted]] !!
 [[how to psychological safety]] !!
 [[how to lower the bar for participation]] !!
-[[why not to shoot the messenger]] !!
+[[why to thank the messenger]] !!
 
 # learning & thinking
 [[a learning mindset]] !!

@@ -14,17 +14,14 @@
 
 > [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/) (more details here)
 
+*no amount of team building exercises can make up for the things above being ignored*
+
 # Other things to do
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
 > [!TIP] Daniel Coyle - the culture playbook (a long list of practical advice)
 # simple things anyone can do
-Acknowledging that you are a fallible human being gives others permission to do the same:
-
-_I don't know._  
-_I need help._  
-_I made a mistake._  
-_I'm sorry._
+Acknowledging that you are a fallible human being gives others permission to do the same, for example: _"I don't know"_, _"I need help"_, _"I made a mistake"_, _"I'm sorry"_
 
  You can also signal interest and availability with questions like:
 

@@ -10,7 +10,7 @@ This mainly teaches everyone who witnesses it that it's not safe to disagree wit
 # what to do instead
 When someone comes to you with a concern, thank them for bringing it up, it doesn't matter whether they are right or wrong (you can figure this out later) - followed by understanding, action where appropriate, and follow-up.
 
-> this does not mean you have to agree with what someone said. You don't even have to like it. But you do have to appreciate the effort it took for her to say it.
+> this does not mean you have to agree with what someone said. You don't even have to like it. But you do have to appreciate the effort it took for them to say it.
 
 ![[Pasted image 20260817203702.png]]
 The more difficult of a topic, the more thank yous may be needed. 

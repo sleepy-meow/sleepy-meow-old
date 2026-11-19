@@ -14,7 +14,7 @@
 
 > [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/) (more details here)
 
-*no amount of team building exercises can make up for the things above being ignored*
+(No amount of team building exercises can make up for the things above being ignored.)
 
 # Other things to do
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)

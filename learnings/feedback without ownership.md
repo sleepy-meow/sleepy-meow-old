@@ -4,12 +4,13 @@ Anonymous feedback comes with structural limitations: you can't have a direct co
 
 Anonymous information can be useful as a signal, but shouldn't automatically become conclusions.
 
-%%
+
 > If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say. (brene brown, dare to lead)
 
 %% 
 
 > Communication is not about speaking what we think. Communication is about ensuring others hear what we mean. 
+%%
 
 When feedback is left to someone else to deliver, you can’t assume it reached the recipient or that it conveyed what you intended.
 %%
@@ -32,7 +33,7 @@ Using unnamed others to avoid owning a judgment is problematic informally, and s
 Accountability means: *owning your mistakes, apologizing, and making amends*. 
 Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. 
 
-## anonymity and power
+## the direction of feedback matters
 *The case for anonymity depends partly on who needs protection from whom.*
 
 Anonymous upwards feedback can be useful as a signal that would otherwise never arrive at all. Someone reporting concerns about a person who controls their review, opportunities, or employment has a clear reason to fear consequences. When the reporter holds that power over the recipient, the same justification is much weaker. Discomfort with explaining or defending criticism is not the same as needing protection from retaliation.
@@ -45,7 +46,6 @@ The more power someone has to attach consequences to their criticism, the strong
 
 The same problem applies to [[logging decisions#decisions without ownership|decisions without ownership]]: *“it has been decided”* without anyone owning the reasoning or answering questions. 
 
-## the direction of feedback matters
 
 Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation can get in the way of communicating clearly.
 

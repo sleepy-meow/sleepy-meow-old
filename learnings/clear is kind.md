@@ -1,23 +1,21 @@
-*Good feedback is specific, usable, contextual, and open to dialogue.*
+*Good feedback is specific, actionable, contextual, and open to dialogue.*
 
 > Clear is kind. Unclear is unkind. 
 
-A concern does not have to arrive fully formed. _Something isn’t working_ can be a legitimate place to begin. The person raising it does not need a complete diagnosis or a ready-made solution.
+An observation, a concern, or a sense that something isn’t working can open a conversation. The person raising it doesn’t need all the details or a ready-made solution.
 
-But if that concern is going to be used to assess someone, ask them to change, or hold them accountable, it has to become clearer. The person raising it needs to help identify what they observed, why it matters, and what improvement would look like.
+The test isn’t whether the conversation starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
 
-The problem is not that a conversation begins vaguely. The problem is when a vague impression hardens into a judgment while the person receiving it is left to guess what it means.
-
+> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
+> 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
 # What is feedback?
-*Here’s the moment, here’s what would have worked better* (or really: *"..i'm curious to hear your perspective on this"*). Without those, it's just a verdict.
-
 The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.
 
-Several other kinds of messages may appear in a feedback conversation, but they are not interchangeable:
+Several other kinds of messages may appear in a feedback conversation, but they are not the same:
 
 **An observation** describes what you noticed:
 *“You spoke three times during the meeting.”*
@@ -36,15 +34,13 @@ Several other kinds of messages may appear in a feedback conversation, but they 
 **A personal judgment** labels someone:
 *“You’re difficult.”*
 
-Any of these might have a legitimate place in a conversation. An observation can help establish what happened. An interpretation can be offered as a possibility to examine. A preference can open a discussion about expectations. A request can make the desired next step clear.
-
-But calling something _feedback_ does not turn an assumption into evidence, a preference into a requirement, or an insult into guidance.
+Any of these might have a valid place in a conversation, but calling something feedback does not turn an assumption into evidence, a preference into a requirement, or an insult into guidance.
 
 Feedback aimed at improvement needs to give the recipient something they can understand and work with, while leaving room for their context and response. **Usable feedback does not have to prescribe the solution.** It gives the recipient enough information to understand the concern, examine the interpretation, and take a meaningful next step.
 
 Other conversations have legitimate purposes of their own. Someone raising a concern, describing harm, or setting a boundary does not have to turn their experience into a development opportunity for the person they are addressing.
 
-# What makes feedback bullshit?
+# What is bullshit?
 Bullshit is not necessarily a deliberate lie. In this context, it is language that sounds meaningful or authoritative without being anchored in enough truth, clarity, or substance to examine.
 
 Feedback starts to become bullshit when it makes a consequential claim about someone but cannot answer basic questions:
@@ -55,14 +51,9 @@ Feedback starts to become bullshit when it makes a consequential claim about som
 - What expectation or standard is being applied?
 - What would improvement look like?
 
-Statements such as _“you lack leadership qualities,” “you focus on the wrong things,” “you have poor communication skills,”_ or _“you need to be more positive”_ may point to a real concern. They can begin a conversation. They are not sufficient as its conclusion.
+Statements such as _“you focus on the wrong things,” “you have poor communication skills,”_ or _“you need to be more positive”_ may point to a real concern, but are not sufficient as a conclusion.
 
 When the person giving the feedback can't make the claim more concrete, the language performs the appearance of feedback without doing the work of feedback.
-
-
-%%
-That said, just because something is accurate or factual doesn't mean it can't be used in a destructive manner: "Sorry. I'm just telling you the truth. These are just the facts."
-%%
 
 # Separate observation from interpretation
 Good feedback separates what happened from the story we tell ourselves about why it happened.

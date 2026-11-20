@@ -32,38 +32,7 @@ You can reject a comment as a verdict on your worth and still need to challenge 
 
 If you aren't allowed to understand, question, or respond to consequential criticism, the problem is also how power is being exercised.
 
-%%
-# If you're on the receiving end
-> Seek first to understand, then to be understood.
 
-**Staying curious.** Ask for something you can act on. You don't have to agree with an assessment to try to understand it. Ask:
-
-- “Can you give me a concrete example?”
-- “What was expected, and what should I have done differently?”
-- “What would improvement look like, and when will we review it?”
-
-Vague feedback isn't automatically wrong. These questions help establish whether there is something you can learn from, correct, or reasonably challenge.
-
-This may feel very scary, but sometimes the best antidote to bullshit is to simply 
-
-...
-
-
-**Bring the conversation back to the substance.** If asking for clarification gets you labelled “sensitive” or “defensive,” you can return to the question: “I'm trying to understand the concern so I can respond to it. Can we go back to the example?”
-
-You don't have to keep pressing in a conversation that has stopped being useful. You can ask for time, follow up in writing, or seek support from someone you trust.
-
-**Keep a clear record.** After a consequential conversation, write down your understanding of the concern, your response, the decision, and any agreed next steps. Share a short recap and invite corrections. Record disagreements as well as agreements; you don't need to pretend the assessment is settled.
-
-**choose whose judgment you trust.** Seek perspective from people who know your work, care about you, and will tell you when you've got something wrong. You need people who can help you distinguish an uncomfortable truth from an unfair judgment, and support you in responding to either.
-
-**stay open without putting your whole self on trial.** Notice when a specific criticism becomes “there's something wrong with me.” Take time to settle, talk it through with someone you trust, and return to what actually happened.
-
-Integrity gives you a starting point: you can examine your actions honestly, own a mistake, and make amends. You can also challenge an interpretation that the evidence doesn't support.
-
-
-These steps can help you respond. The responsibility for a fair process still belongs to the people making the decision.
-%%
 ## further reading
 
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)

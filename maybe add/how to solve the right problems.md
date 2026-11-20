@@ -3,7 +3,7 @@
 It's easy to jump the gun and go straight to the "solutions" part, and start adding a feature, and forget to ask the most important thing: are these the right features?
 
 
-This canvas is worded for ux consultants, works just as well for other use cases: https://jeffgothelf.com/blog/leanuxcanvas-v2/
+This canvas is made for ux consultants, but works just as well for many other use cases with a bit of modification: https://jeffgothelf.com/blog/leanuxcanvas-v2/
 
 - Helps focus on “why”
 - Encourages learning
@@ -20,7 +20,6 @@ The main idea is to focus on one topic at a time:
 6. etc
 7. etc
 
-When balancing multiple stakeholders it can also be useful to go through 1&2 separately for each, for example: "what problem does the (business, artists, programmers, etc) have we're trying to solve"
 
 
 

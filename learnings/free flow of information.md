@@ -1,8 +1,5 @@
 > “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.” -paul arden
 
-> Free flow of information is one of the fundamental requirements for self-management of organizations. 
-
-%%
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
 Some other benefits include:
@@ -10,7 +7,6 @@ Some other benefits include:
 - **decision speed** - raw data is useful, curated data is slow and loses context
 - **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
 - **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
-%%
 # A team of teams
 In the book Team of Teams, stanley mcchrystal argues how one of the limiting factors of hierarchical communication and decision making structures is individual brain capacity.
 
@@ -35,27 +31,32 @@ so instead of pushing decisions up, you push *understanding* down and out.
 
 ![[Pasted image 20260627140901.png]]
 
+> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
 # why this leads to more innovation
-Associative thinking is the skill of connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
+Creativity generally involves crossing the boundaries of domains. 
+
+It happens through connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
 
 > [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
 
 > *individual observations and suggestions build on each other, taking new shape and creating new value, especially compared to what happens when individual feedback is collected separately*
 
 
-> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+%%
+There's also something called Conway's Law:
+> "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."
 
 
+
+
+# information stovepipes
 > A company's communication structure should not mirror its organizational structure. Everybody should be able to talk to anybody. (Ed Catmull, Creativity inc)
 
-Another fundamental issue with everyone focusing on their own narrow field is that many problems (and ideas) will fall between the gaps. The person who notices it often isn't who can fix it. Or the one who can fix it doesn't know how much of a problem some easy fix is somewhere else.
-
+The more people a message needs to go through, the more of a telephone game it becomes. 
+%%
 
 
 > [!EXAMPLE] [people, processes, technology and information](https://frederickvanbrabant.com/blog/2025-05-16-people-processes-technology-and-information/)
-
-# conway's law
-> "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."
 
 
 
@@ -64,4 +65,6 @@ Whether all the participants have the same information available or not has a dr
 > Teams systematically over-discuss information that everyone already knows and underweight information that is unique, privately held, or uncomfortable. Decades of research show that this effect is so strong that it routinely defeats the very purpose of teamwork: combining diverse knowledge into better decisions. ([source](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f))
 
 ![[Pasted image 20260910163235.png|421]]
+
+
 

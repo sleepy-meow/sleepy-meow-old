@@ -291,7 +291,7 @@ def main() -> None:
 
 
 def write_manifest(folders, landing) -> None:
-    manifest = {"title": "lauras learnings", "folders": folders}
+    manifest = {"title": "team learnings", "folders": folders}
     if landing:
         manifest["landing"] = landing
     with open(os.path.join(ROOT, "files.json"), "w") as f:

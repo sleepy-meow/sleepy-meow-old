@@ -52,7 +52,7 @@
 [[cross team connectors]] !! ?
 [[free flow of information]] !!
 [[some pitfalls]] !!
-[[founding a company]] !!
+[[founding a company]] !! ?
 
 [[bad advice books]] !!
 [[links & resource]] !!

@@ -38,7 +38,7 @@ IGNORE_FILES = {"README.md", "CLAUDE.md"}
 LANDING_FILE = "landing page.md"
 INDEX_FILE = "page index.md"
 
-TITLE = "team learnings"
+TITLE = "learnings.team"
 DEFAULT_OUTPUT = "combined.md"
 # Horizontal rule between pages, so one note visibly ends before the next
 # begins. Needs a blank line on either side to stay a rule and not turn the
